@@ -1,0 +1,14 @@
+{
+  "QUERIES": [
+    ".navbar-collapse",
+    "#gbqfbb",
+    "#flexible-item-buttons",
+    ".style-scope .ytd-masthead",
+    ".ads",
+    "#headerDiv"
+  ],
+  "BESPOKE": [
+    ".style-scope .ytd-guide-renderer$4",
+    ".ytd-rich-shelf-renderer$1",
+  ]
+}
